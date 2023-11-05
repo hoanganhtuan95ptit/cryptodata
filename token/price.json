@@ -1,0 +1,14 @@
+[
+  {
+    "key": "ethereum",
+    "chainId": null,
+    "type": "coigecko",
+    "price": 1881.22
+  },
+  {
+    "key": "0x",
+    "chainId": 1,
+    "type": "address",
+    "price": 1881.22
+  }
+]
